@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>首页</h1>
+    <h3>首页</h3>
     <div>muzi_blog demo</div>
   </div>
 </template>
