@@ -1,0 +1,1 @@
+import{_ as n,s as t,t as c,y as _,K as a}from"./BGbY70T3.js";const d={};function f(e,o){return t(),c("div",null," header ")}const l=n(d,[["render",f]]),u={};function p(e,o){return t(),c("div",null," footer ")}const i=n(u,[["render",p]]),m={};function x(e,o){const r=l,s=i;return t(),c("div",null,[_(r),a(e.$slots,"default"),_(s)])}const h=n(m,[["render",x]]);export{h as default};

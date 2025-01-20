@@ -1,10 +1,16 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
+const path = require('path');
+
 export default defineNuxtConfig({
   devtools: { enabled: false },
   app: {
-    baseURL: "/daisy",
+    // baseURL: '/muzi_blog',
     head: {
-      title: "daisy. Blog",
+      title: 'muzi_blog',
     },
   },
-})
+  nitro: {
+    output: {
+      publicDir: path.join(__dirname, 'docs'),
+    },
+  },
+});

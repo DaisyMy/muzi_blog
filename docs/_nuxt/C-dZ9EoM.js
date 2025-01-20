@@ -1,0 +1,1 @@
+import{_ as o,t,s,v as e}from"./BGbY70T3.js";const n={},c=e("h1",null,"首页",-1),_=e("div",null,"muzi_blog demo",-1),r=[c,_];function a(d,l){return s(),t("div",null,r)}const u=o(n,[["render",a]]);export{u as default};
