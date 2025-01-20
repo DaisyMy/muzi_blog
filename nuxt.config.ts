@@ -3,7 +3,7 @@ const path = require('path');
 export default defineNuxtConfig({
   devtools: { enabled: false },
   app: {
-    // baseURL: '/muzi_blog',
+    baseURL: '/muzi_blog',
     head: {
       title: 'muzi_blog',
     },
